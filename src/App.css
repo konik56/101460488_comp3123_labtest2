@@ -1,0 +1,8 @@
+body {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  height: 100vh;
+  background-color: rgba(1, 75, 139, 0.51);
+}
